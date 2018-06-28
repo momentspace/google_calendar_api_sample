@@ -38,3 +38,6 @@ config/environments/*.local.yml
 /secrets/*
 !/secrets/.keep
 
+/token.yaml
+/calendar.id
+
