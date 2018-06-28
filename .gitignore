@@ -35,3 +35,6 @@ config/environments/*.local.yml
 
 /vendor/bundle
 
+/secrets/*
+!/secrets/.keep
+
